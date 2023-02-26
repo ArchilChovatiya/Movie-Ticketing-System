@@ -1,0 +1,26 @@
+﻿emp_id,employee_name,SSN,executive_rank,supervisor_id
+1,Jennifer leblank,356803418,1,12
+2,George Winget,409534196,2,7
+3,Matt Billings,298550998,5,
+4,Ann leblank,624891482,4,23
+5,Ann Demon,630069990,7,25
+6,Ann Billings,456505253,3,23
+7,Matt Demon,677771542,7,12
+8,Jennifer Billings,184149031,7,23
+9,Matt leblank,657012186,7,23
+10,Sam Billings,346784508,8,25
+11,Sam leblank,706681221,6,12
+12,Jennifer Hathway,220116288,7,19
+13,Matt Hathway,575254433,8,12
+14,Jennifer Demon,209629320,2,19
+15,Sam Winget,648286024,6,7
+16,George Hathway,875045449,5,3
+17,George Billings,717138393,4,23
+18,Ann Hathway,450922230,5,23
+19,Ann Winget,856561527,5,25
+20,George leblank,634283273,4,12
+21,Sam Hathway,164788954,1,23
+22,George Demon,978275505,5,3
+23,Jennifer Winget,938919045,8,25
+24,Sam Demon,759488558,4,23
+25,Matt Winget,169847669,8,
