@@ -28,6 +28,9 @@ This project aims to develop an online booking system for movie tickets. The sys
 - Contains
 - Reserved_by
 
+## ER Diagram
+![Leaderboards screenshot](/ER.png)
+
 ## Attributes
 - Movie (movie_name (primary key), release_year, language, duration, genre)
 - Cast (actor_name (primary_key), dob, age)
